@@ -1,22 +1,22 @@
 # Logistic Regression with PyTorch
 
-A notebook introducing binary classification with a logistic regression model implemented in PyTorch.
+A notebook introducing classification with logistic regression implemented in PyTorch.
 
 ## Notebook
 - `Pytorch_Logistic_Regression.ipynb`
 
 ## Topics
 - Tensor-based data preparation
-- Linear logits and sigmoid probabilities
+- Logits and sigmoid probabilities
 - Binary classification loss
-- Backpropagation and optimizer updates
-- Prediction and classification workflow
+- Backpropagation and optimization
+- Prediction workflow
 
 ## Run
-Open the notebook in Jupyter or Google Colab. Install PyTorch and the dependencies used in the notebook, then execute cells in order.
+Open in Jupyter or Google Colab, install PyTorch and imported dependencies, then run cells sequentially.
 
 ## Scope
-Educational material. Check the notebook for its dataset, target encoding, loss function, optimizer and evaluation details.
+Educational implementation. See the notebook for dataset, target encoding, loss and evaluation details.
 
 ## Author
 Ali Hassan Abbas | [GitHub](https://github.com/AliHassanAbbas)
